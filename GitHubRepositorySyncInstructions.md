@@ -4,6 +4,10 @@ Introduction to Data Science Part 1.2: A Dose of Data (Boring Mix): https://www.
 
 Introduction to Data Science Part 2.2 : Gitting Data: https://www.youtube.com/watch?v=RGVfCidAs_Y
 
+TLDR: `ls` lists the items in the current directory, `cd` changes the directory, `git add -A .` adds all things in current directory, `git commit -m "message"` appends a commit message, `git push` pushes the changes to the repository. Oftentimes I get stuck in which case I should use `git pull origin master` followed by `git push origin master`. Although I should find a better work around.
+
+https://stackoverflow.com/questions/24357108/git-updates-were-rejected-because-the-remote-contains-work-that-you-do-not-have
+
 
 `jovyan@jupyter-ghespinosa:~$ ls`
 
