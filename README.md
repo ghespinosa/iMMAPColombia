@@ -1,5 +1,7 @@
 # README
 
+<img align = "right" src= "https://i0.wp.com/immap.org/wp-content/uploads/2016/12/immap-logo-strap2.png?resize=300%2C45&ssl=1"> <br />
+
 ## iMMAP Colombia Fellowship Repository
 
 *This repository stores all the work I have contributed to throughout my fellowship with iMMAP Colombia.*
@@ -20,4 +22,4 @@
     - a) UNHCR DEEP Data Preprocessing.ipynb
     - b) UNHCR DEEP Data Analysis (Muti Label Text Classification).ipynb
 
-<img align = "center" src= "https://i0.wp.com/immap.org/wp-content/uploads/2016/12/immap-logo-strap2.png?resize=300%2C45&ssl=1"> <br />
+
