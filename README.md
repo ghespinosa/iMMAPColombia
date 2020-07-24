@@ -4,6 +4,8 @@
 
 *This repository stores all the work I have contributed to throughout my fellowship with iMMAP Colombia.*
 
+<img src= "https://github.com/ghespinosa/iMMAPColombia/raw/master/GusanitoLogo.001.jpeg"> <br />
+
 This includes three main projects with various scripts and deliverables:
 
 - ValidacionDeAsen: Settlement characterization with Premise data
@@ -17,3 +19,5 @@ This includes three main projects with various scripts and deliverables:
 - MineríaDeTexto: Text mining with DEEP data 
     - a) UNHCR DEEP Data Preprocessing.ipynb
     - b) UNHCR DEEP Data Analysis (Muti Label Text Classification).ipynb
+
+<img src= "https://i0.wp.com/immap.org/wp-content/uploads/2016/12/immap-logo-strap2.png?resize=300%2C45&ssl=1"> <br />
