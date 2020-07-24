@@ -6,7 +6,7 @@
 
 <img src= "https://github.com/ghespinosa/iMMAPColombia/raw/master/GusanitoLogo.001.jpeg"> <br />
 
-This includes three main projects with various scripts and deliverables:
+**This includes three main projects with various scripts and deliverables:**
 
 - ValidacionDeAsen: Settlement characterization with Premise data
     - a) AnalisisDeAsentamientos (V_2).ipynb
@@ -20,4 +20,4 @@ This includes three main projects with various scripts and deliverables:
     - a) UNHCR DEEP Data Preprocessing.ipynb
     - b) UNHCR DEEP Data Analysis (Muti Label Text Classification).ipynb
 
-<img src= "https://i0.wp.com/immap.org/wp-content/uploads/2016/12/immap-logo-strap2.png?resize=300%2C45&ssl=1"> <br />
+<img align = "center" src= "https://i0.wp.com/immap.org/wp-content/uploads/2016/12/immap-logo-strap2.png?resize=300%2C45&ssl=1"> <br />
